@@ -19,6 +19,11 @@
   <img src="https://devicon-website.vercel.app/api/cplusplus/original.svg" width='40' alt="cpp-logo"/>
 </div>
 
+---
+<!-- Tabela cm=om dash boards git status -->
+|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kay-Carv&layout=pie&theme=radical)](https://github.com/Kay-Carv) | ![Devcarv GitHub stats](https://github-readme-stats.vercel.app/api?username=Kay-Carv&show_icons=true&theme=radical) | 
+|---|---|
+
  ## Organização
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
 
