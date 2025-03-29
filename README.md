@@ -12,7 +12,10 @@
   <img src="https://devicon-website.vercel.app/api/react/original.svg" width='40' alt='logo-react'></img>
   <img src="https://devicon-website.vercel.app/api/nodejs/original.svg" width="40"></img>
   <img src="https://devicon-website.vercel.app/api/python/original.svg" width="40" alt="python logo"/>
-  <img src="https://devicon-website.vercel.app/api/arduino/original-wordmark.svg" width="40" alt="arduino logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg"
+  width="40" alt="Bootstrap"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="40" alt="SASS"/>
+  <img src="https://devicon-website.vercel.app/api/arduino/original-wordmark.svg" width="40" alt="arduino logo">
   <img src="https://devicon-website.vercel.app/api/cplusplus/original.svg" width='40' alt="cpp-logo"/>
 </div>
 
