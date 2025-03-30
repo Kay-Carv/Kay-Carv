@@ -24,18 +24,10 @@
 |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kay-Carv&layout=pie&theme=radical)](https://github.com/Kay-Carv) | ![Devcarv GitHub stats](https://github-readme-stats.vercel.app/api?username=Kay-Carv&show_icons=true&theme=radical) | 
 |---|---|
 
- <!-- ## Acompanhe o **``Grupo Code Nexus``**
-
-[![Grupo Code Nexus](https://avatars.githubusercontent.com/u/204507479?s=150&v=4)](https://github.com/GrupoCodeNexus "Organização Grupo Code Nexus")  -->
-
-## Acompanhe o **``Grupo Code Nexus``**
-
-<div style="display: flex; align-items: center; padding: 5px;">
-    <a href="https://github.com/GrupoCodeNexus" title="Organização Grupo Code Nexus">
-        <img src="https://avatars.githubusercontent.com/u/204507479?s=150&v=4" alt="Grupo Code Nexus" style="border-radius: 5px; margin-right: 15px;">
-    </a>
-    <p style="font-size: 16px; padding-left: 5px;">Acompanhe também os projetos dos quais eu participo dentro da organização do meu grupo da faculdade para mais novidades!</p>
-</div>
+ ## Acompanhe o **``Grupo Code Nexus``**
+<!--Tabela para mostrar a Organização que participo-->
+| [![Grupo Code Nexus](https://avatars.githubusercontent.com/u/204507479?s=150&v=4)](https://github.com/GrupoCodeNexus "Organização Grupo Code Nexus") | Acompanhe também os projetos dos quais eu participo dentro da organização do meu grupo da faculdade para mais novidades!  <br><br> [![Custom Badge](https://img.shields.io/badge/Code-Nexus-blue?style=for-the-badge&logo=github)](https://github.com/GrupoCodeNexus)|
+|---|:----:|
 
 
  ## Conecte-se comigo
