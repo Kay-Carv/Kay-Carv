@@ -4,6 +4,10 @@
  
  Me chamo Kayque Carvalho, tenho 19 anos e atualmente estou no segundo semestre no curso de **[Engenharia de Software](https://www.fiap.com.br/graduacao/bacharelado/engenharia-de-software/)** na **FIAP** (Faculdade de Informática e Administração Paulista). Sou apaixonado em tecnologia e tenho interesse em Desenvolvimento Web, IA, Machine Learning, Gestão de Projetos e sistemas embarcados/IoT.
 
+[ <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin-icon">](https://www.linkedin.com/in/kayque-carvalho-49a190283/)
+[<img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL"/>](https://mail.google.com/mail/?view=cm&fs=1&to=kayquecarvalho020@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/Kay-Carv?label=Siga-me&style=social)](https://github.com/Kay-Carv)
+ 
  ## Tecnologias que estou estudando
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="html5 logo"/>
