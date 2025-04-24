@@ -34,8 +34,6 @@
 | [![Grupo Code Nexus](https://avatars.githubusercontent.com/u/204507479?s=150&v=4)](https://github.com/GrupoCodeNexus "Organização Grupo Code Nexus") | Acompanhe também os projetos dos quais eu participo dentro da organização do meu grupo da faculdade para mais novidades!  <br><br> [![Custom Badge](https://img.shields.io/badge/Code-Nexus-blue?style=for-the-badge&logo=github)](https://github.com/GrupoCodeNexus)|
 |---|:----:|
 
-
- ## Conecte-se comigo
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
   <!-- Footer -->
 <div align="center"> <!--Alinhando footer-->
