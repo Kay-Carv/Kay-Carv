@@ -25,8 +25,12 @@
 </div>
 
 ---
+<!--<div align="center">
+ <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Kay-carv&theme=radical&border_radius=7" alt="GitHub Streak" /></a>
+</div>-->
+
 <!-- Tabela cm=om dash boards git status -->
-|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kay-Carv&layout=pie&theme=radical)](https://github.com/Kay-Carv) | ![Devcarv GitHub stats](https://github-readme-stats.vercel.app/api?username=Kay-Carv&show_icons=true&theme=radical) | 
+|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kay-Carv&layout=pie&theme=radical)](https://github.com/Kay-Carv) | ![Devcarv GitHub stats](https://github-readme-stats.vercel.app/api?username=Kay-Carv&show_icons=true&theme=radical)  | 
 |---|---|
 
  ## Acompanhe o **``Grupo Code Nexus``**
