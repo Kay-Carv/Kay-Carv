@@ -1,4 +1,4 @@
-# 👨‍💻Kayque Carvalho
+# Kayque Carvalho
  
  **[`Estudante de Engenharia de Software`](https://www.fiap.com.br/graduacao/bacharelado/engenharia-de-software/)**
  
@@ -9,6 +9,7 @@
 [![GitHub](https://img.shields.io/github/followers/Kay-Carv?label=Siga-me&style=social)](https://github.com/Kay-Carv)
  
  ## Tecnologias que estou estudando
+<!--Para novos icones https://github.com/tandpfun/skill-icons#readme-->
 <!-- Encontre os icons nesse site  https://devicon.dev-->
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="html5 logo"/>
