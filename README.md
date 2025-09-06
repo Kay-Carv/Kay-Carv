@@ -37,6 +37,7 @@
 ---
 
 <!-- Tabela com os git stats -->
+> Git Stats
 <div align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=Kay-Carv&show_icons=true&theme=radical">
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=Kay-carv&theme=radical&border_radius=7"/>
@@ -55,8 +56,16 @@
 
  ## Conecte-se comigo
 
+<!-- Logos/Links para contato -->
 <div align="center">
-    <a href="mailto:kayquecarvalho020@gmail.comsubject=Conexão%20no%20GitHub&body=Olá Kayque!%20Vi%20seu%20perfil%20do%20GitHub%20e%20gostaria%20de%20me%20conectar%20para%20trocarmos%20experiências.%20Podemos%20conversar%20sobre%20programação%20e%20engenharia%20de%20software?"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+    <!-- Logo Gmail -->
+    <a href="mailto:kayquecarvalho020@gmail.comsubject=Conexão%20no%20GitHub&body=Olá Kayque!%20Vi%20seu%20perfil%20do%20GitHub%20e%20gostaria%20de%20me%20conectar%20para%20trocarmos%20experiências.%20Podemos%20conversar%20sobre%20programação%20e%20engenharia%20de%20software?" aria-label="Enviar email para Kayque Carvalho">
+      <img src="https://skillicons.dev/icons?i=gmail" alt="Logo Gmail"/></a>
+    <!-- Logo Linkedin -->
+    <a href="https://www.linkedin.com/in/kayque-carvalho-49a190283/"  aria-label="Perfil linkedin de Kayque Carvalho" style="padding: 4px; padding-right: 4px;">
+      <img src="https://skillicons.dev/icons?i=linkedin" alt="Logo linkedin"/></a>
+    <!-- Logo instagram -->
+    <a href="https://www.instagram.com/carvalhokayque020/" aria-label="Perfil do instagram"><img src="https://skillicons.dev/icons?i=instagram" alt="Logo instagram"/></a>
 </div>
 
 
