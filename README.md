@@ -14,8 +14,6 @@
   <strong><a href="https://www.fiap.com.br/graduacao/bacharelado/engenharia-de-software/">Estudante de Engenharia de Software - FIAP</a></strong>
 </p>
 
-
-
  ## Tecnologias e ferramentas
 
 <!-- Icones das ferramentas e linguagens -->
@@ -43,10 +41,25 @@
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=Kay-carv&theme=radical&border_radius=7"/>
 </div>
 
- <!-- ## Acompanhe o **``Grupo Code Nexus``**
+## Principais Projetos
 
-[![Grupo Code Nexus](https://avatars.githubusercontent.com/u/204507479?s=150&v=4)](https://github.com/GrupoCodeNexus "Organização Grupo Code Nexus")  -->
+| 🎁 Projeto | 📝 Descrição | ✨ Tecnologias | ⭐ Repositório |
+|---|---|---|:---:|
+| [**Smart Flow - Site**](https://grupocodenexus.github.io/Site-Smart-Flow-sprint4-frontend/) | Módulo de controle e segurança para carrinhos emergenciais com insights e gerenciamento de estoque. | `HTML` `Tailwind` `JavaScript` | [![Stars](https://img.shields.io/github/stars/GrupoCodeNexus/Site-Smart-Flow-sprint4-frontend?style=flat&label=)](https://github.com/GrupoCodeNexus/Site-Smart-Flow-sprint4-frontend) |
+| [**Smart Flow - Sistema de Gerenciamento**](https://github.com/GrupoCodeNexus/Sprint4-SmartFlow-CarrinhoMedico) | Sistema para acompanhamento de status, criação e manutenção de carrinhos de emergência. | `React.js` `Node.js` `Tailwind` `CRUD` | [![Stars](https://img.shields.io/github/stars/GrupoCodeNexus/Sprint4-SmartFlow-CarrinhoMedico?style=flat&label=)](https://github.com/GrupoCodeNexus/Sprint4-SmartFlow-CarrinhoMedico) |
+| [**Smart Flow - Protótipo Módulo Edge**](https://github.com/GrupoCodeNexus/Challenge4-SmartFlow___EDGE) | Desenvolvimento de sistema embarcado com controle de acesso via RFID. | `C` `FIWARE` `MongoDB` `Docker` | [![Stars](https://img.shields.io/github/stars/GrupoCodeNexus/Challenge4-SmartFlow___EDGE?style=flat&label=)](https://github.com/GrupoCodeNexus/Challenge4-SmartFlow___EDGE) |
+| [**Smart Flow - Gestão de Medicamentos**](https://github.com/GrupoCodeNexus/Gestao-de-Itens-SmartFlow-sprint4-python) | Sistema que rastreia a saída de medicamentos e atrela ao prontuário do paciente. | `Python` `Flask` `Tailwind` `JSON` | [![Stars](https://img.shields.io/github/stars/GrupoCodeNexus/Gestao-de-Itens-SmartFlow-sprint4-python?style=flat&label=)](https://github.com/GrupoCodeNexus/Gestao-de-Itens-SmartFlow-sprint4-python) |
+| [**GeoPulse - Global Solutions**](https://github.com/GrupoCodeNexus/GeoPulse) | Solução para mitigar e prevenir acidentes ambientais em tempo real. | `React.js` `Node.js` `Tailwind` | [![Stars](https://img.shields.io/github/stars/GrupoCodeNexus/GeoPulse?style=flat&label=)](https://github.com/GrupoCodeNexus/GeoPulse) |
+| [**Nexus Bike - CRUD**](https://github.com/GrupoCodeNexus/CP5-WebDev_REACT-NODE) | Plataforma de vendas de bikes com gerenciamento de imagens e produtos. | `React.js` `Node.js` `Tailwind` `CRUD` | [![Stars](https://img.shields.io/github/stars/GrupoCodeNexus/CP5-WebDev_REACT-NODE?style=flat&label=)](https://github.com/GrupoCodeNexus/CP5-WebDev_REACT-NODE) |
 
+---
+
+## 📚 Aulas e Anotações
+
+| 📖 Material | ⭐ Repositório |
+|---|---|
+| **Aulas de Python** | [Link para a lista de repositórios](https://github.com/stars/Kay-Carv/lists/aula-de-python) |
+| **Aulas de Java** | [Link para a lista de repositórios](https://github.com/stars/Kay-Carv/lists/aula-de-java) |
 
  ## Acompanhe o **``Grupo Code Nexus``**
 <!--Tabela para mostrar a Organização que participo-->
