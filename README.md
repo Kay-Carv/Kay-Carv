@@ -16,6 +16,7 @@
   <strong><a href="https://www.fiap.com.br/graduacao/bacharelado/engenharia-de-software/">Estudante de Engenharia de Software - FIAP</a></strong>
 </p>
 
+
  ## Tecnologias e ferramentas
 
 <!-- Icones das ferramentas e linguagens -->
@@ -23,7 +24,7 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kay-Carv&layout=compact&theme=radical" width="400" alt="Top Languages" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Kay-Carv&layout=compact&theme=radical&hide_border=true&custom_title=Linguagens%20que%20mais%20utilizo&cache_seconds=1800&v=1" width="400" alt="Top Languages" />
       </td>
       <td>
         <img src="https://skillicons.dev/icons?i=py,java,js,cpp,flask,react,nodejs,tailwind,md,html,css,bootstrap,arduino,mongodb,azure,docker,postman,vscode,idea,figma,github,git,powershell&perline=8" alt="Skills" />
@@ -39,7 +40,7 @@
 <!-- Tabela com os git stats -->
 > Git Stats
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Kay-Carv&show_icons=true&theme=radical" alt="">
+  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Kay-Carv&show_icons=true&theme=radical&count_private=true&include_all_commits=false&rank_icon=github"/>
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=Kay-carv&theme=radical&border_radius=7"/>
 </div>
 
