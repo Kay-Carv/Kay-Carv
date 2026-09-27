@@ -44,18 +44,66 @@
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=Kay-carv&theme=radical&border_radius=7"/>
 </div>
 
-## Principais Projetos
+## 🚀 Projetos em destaque
 
-| 🎁 Projeto | 📝 Descrição | ✨ Tecnologias | ⭐ Repositório |
-|---|---|---|:---:|
-| [**Smart Flow - Site**](https://grupocodenexus.github.io/Site-Smart-Flow-sprint4-frontend/) | Módulo de controle e segurança para carrinhos emergenciais com insights e gerenciamento de estoque. | `HTML` `Tailwind` `JavaScript` | [![Stars](https://img.shields.io/github/stars/GrupoCodeNexus/Site-Smart-Flow-sprint4-frontend?style=flat&label=)](https://github.com/GrupoCodeNexus/Site-Smart-Flow-sprint4-frontend) |
-| [**Smart Flow - Protótipo Módulo Edge**](https://github.com/GrupoCodeNexus/Challenge4-SmartFlow___EDGE) | Desenvolvimento de sistema embarcado com controle de acesso via RFID que envia informações de acesso em tempo real para uma máquina virtual com serviço linux. | `C++` `FIWARE` `MongoDB` `Docker` `Azure` `ioT`| [![Stars](https://img.shields.io/github/stars/GrupoCodeNexus/Challenge4-SmartFlow___EDGE?style=flat&label=)](https://github.com/GrupoCodeNexus/Challenge4-SmartFlow___EDGE) |
-| [**Smart Flow - Gestão de Medicamentos**](https://github.com/GrupoCodeNexus/Gestao-de-Itens-SmartFlow-sprint4-python) | Sistema de atribuições de medicamentos ao prontuário de pacientes com gestão de estoque. | `Python` `Flask` `Tailwind` `JSON` | [![Stars](https://img.shields.io/github/stars/GrupoCodeNexus/Gestao-de-Itens-SmartFlow-sprint4-python?style=flat&label=)](https://github.com/GrupoCodeNexus/Gestao-de-Itens-SmartFlow-sprint4-python) |
-| [**Smart Flow - Sistema de Gerenciamento**](https://github.com/GrupoCodeNexus/Sprint4-SmartFlow-CarrinhoMedico) | Sistema para acompanhamento de status, criação e manutenção de carrinhos de emergência. | `React.js` `Node.js` `Tailwind` `CRUD` | [![Stars](https://img.shields.io/github/stars/GrupoCodeNexus/Sprint4-SmartFlow-CarrinhoMedico?style=flat&label=)](https://github.com/GrupoCodeNexus/Sprint4-SmartFlow-CarrinhoMedico) |
-| [**GeoPulse - Global Solutions**](https://github.com/GrupoCodeNexus/GeoPulse) | Solução para mitigar e prevenir acidentes ambientais em tempo real. | `React.js` `Node.js` `Tailwind` | [![Stars](https://img.shields.io/github/stars/GrupoCodeNexus/GeoPulse?style=flat&label=)](https://github.com/GrupoCodeNexus/GeoPulse) |
-| [**Nexus Bike - CRUD**](https://github.com/GrupoCodeNexus/CP5-WebDev_REACT-NODE) | Plataforma de vendas de bikes com gerenciamento de imagens e produtos. | `React.js` `Node.js` `Tailwind` `CRUD` | [![Stars](https://img.shields.io/github/stars/GrupoCodeNexus/CP5-WebDev_REACT-NODE?style=flat&label=)](https://github.com/GrupoCodeNexus/CP5-WebDev_REACT-NODE) |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌕 StarAge</h3>
+      <p>Plataforma de missão crítica para gerenciar a cadeia de suprimentos e prever esgotamento de recursos em bases lunares, com alertas de criticidade e integração de sensores via MQTT — projeto da Global Solution FIAP 2026.</p>
+      <img src="https://skillicons.dev/icons?i=java,spring,react,tailwind,docker&theme=dark"/>
+      <br/><br/>
+      <a href="https://github.com/Kay-Carv/GS-DDD">🔗 Repositório</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏥 Conecta+ CRM</h3>
+      <p>Sistema backend para gestão de relacionamento com pacientes do Hospital São Rafael, focado em procedimentos estéticos — controle de leads, pacientes e agendamentos, exposto via API REST (JSON) e páginas Thymeleaf.</p>
+      <img src="https://skillicons.dev/icons?i=java,spring,tailwind,oracle&theme=dark"/>
+      <br/><br/>
+      <a href="https://github.com/Kay-Carv/Sprint-4-DDD-JAVA">🔗 Repositório</a>
+    </td>
+  </tr>
+</table>
 
 ---
+
+<div align="center">
+  <h3>🏅 Smart Flow — Medalhista FIAP NEXT 2024–2025</h3>
+</div>
+
+<div align="justify">
+Solução IoT desenvolvida em parceria com o <b>Hospital Infantil Sabará</b> para controle e rastreamento de medicamentos de alto custo em carrinhos de emergência — com autenticação por perfil, gestão de estoque em tempo real integrada a sensores, e geração automática de relatórios de custo por paciente.
+</div>
+
+<div align="center">
+  <table align="center">
+    <tr>
+      <td width="25%" align="center">
+        <b>Site</b><br/>
+        <img src="https://skillicons.dev/icons?i=html,tailwind,js&theme=dark"/><br/><br/>
+        <a href="https://grupocodenexus.github.io/Site-Smart-Flow-sprint4-frontend/">🔗 Acessar</a>
+      </td>
+      <td width="25%" align="center">
+        <b>Módulo Edge (IoT)</b><br/>
+        <img src="https://skillicons.dev/icons?i=cpp,docker,azure&theme=dark"/><br/><br/>
+        <a href="https://github.com/GrupoCodeNexus/Challenge4-SmartFlow___EDGE">🔗 Repositório</a>
+      </td>
+      <td width="25%" align="center">
+        <b>Gestão de Medicamentos</b><br/>
+        <img src="https://skillicons.dev/icons?i=py,flask,tailwind&theme=dark"/><br/><br/>
+        <a href="https://github.com/GrupoCodeNexus/Gestao-de-Itens-SmartFlow-sprint4-python">🔗 Repositório</a>
+      </td>
+      <td width="25%" align="center">
+        <b>Gerenciamento de Carrinhos</b><br/>
+        <img src="https://skillicons.dev/icons?i=react,nodejs,tailwind&theme=dark"/><br/><br/>
+        <a href="https://github.com/GrupoCodeNexus/Sprint4-SmartFlow-CarrinhoMedico">🔗 Repositório</a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
 
 ## 📚 Aulas e Anotações
 
