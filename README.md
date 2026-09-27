@@ -4,13 +4,13 @@
 
 <!-- Mensagem de boas vindas -->
 <p align="center">  
-  <a href="https://github.com/Kay-Carv"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=22&duration=3300&pause=1000&color=F7EBE6&background=01000013&center=true&vCenter=true&width=435&lines=Ol%C3%A1!+Bem+vindo+ao+meu+GitHub+%3A);Sou+Estudante+de+Engenharia+de+Software" alt="Typing SVG" /></a>
+  <a href="https://github.com/Kay-Carv"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=22&duration=3300&pause=1000&color=F7EBE6&background=01000013&center=true&vCenter=true&width=435&lines=Ol%C3%A1!+Bem-vindo+ao+meu+GitHub+%3A);Engenharia+de+Software+%40+FIAP;Java+%7C+Spring+Boot+%7C+APIs+REST" alt="Typing SVG" /></a>
   <!--Link para criar:  https://readme-typing-svg.demolab.com/demo -->
 </p>
  
 ---
 
->**Portfólio:** ![Em Desenvolvimento](https://img.shields.io/badge/Status-Em%20Desenvolvimento-blue)
+<!-- >**Portfólio:** ![Em Desenvolvimento](https://img.shields.io/badge/Status-Em%20Desenvolvimento-blue) -->
 
 <p>
   <strong><a href="https://www.fiap.com.br/graduacao/bacharelado/engenharia-de-software/">Estudante de Engenharia de Software - FIAP</a></strong>
